@@ -298,10 +298,15 @@ ORDER BY type;
 ---
 
 ## 📂 Files Included
-
+* `Business Problems Netflix.sql` – 15 Business Questions Netflix
+* `README.md` – Project documentation and summary
 * `netflix_analysis.sql` – SQL queries solving all 15 business questions
 * `netflix_data.csv` – Dataset (or link to Kaggle source)
-* `README.md` – Project documentation and summary
+* `netflix_logo.png` – Netflix Brand Logo
+* `schemas.sql` – Creating Table
+
+
+
 
 ---
 
